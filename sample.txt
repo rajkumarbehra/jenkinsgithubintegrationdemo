@@ -2,3 +2,4 @@ echo "This is sample repo for jenkins-github integration demo"
 
 Testing email notification
 Jenkins Github Integration lab done on 7th February 2019 at RCP
+Changes updated
